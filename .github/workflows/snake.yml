@@ -4,7 +4,7 @@ on:
   # Run automatically every 24 hours
   schedule:
     - cron: "0 */24 * * *"
-
+ 
   # Allows manual runs
   workflow_dispatch:
 
