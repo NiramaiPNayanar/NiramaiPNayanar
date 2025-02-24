@@ -5,7 +5,7 @@
     
 <h3 align="center">Highly motivated and continuously learning Computer Science student with a strong passion for developing innovative solutions, particularly in app development and data visualization. Adept at analyzing complex problems from multiple perspectives and delivering creative, cutting-edge designs. Proven ability to adapt to dynamic environments and consistently strive for excellence, with a focus on achieving impactful results. Looking forward to leveraging my skills in a challenging and growth-oriented role.</h3>
  
-
+ 
 </h2>
    
 - 🔭 I’m currently working on **AI blurring project for Deepfake Prevention and Protection**
