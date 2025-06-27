@@ -8,7 +8,7 @@
  
 </h2>
    
-- 🔭 I’m currently working on **AI blurring project for Deepfake Prevention and Protection**
+
  
 - 🌱 I’m currently learning **Flutter and Avalonia**
 
