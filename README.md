@@ -10,7 +10,7 @@
    
 
  
-- 🌱 I’m currently learning **Flutter and Avalonia**
+- 🌱 I’m currently learning **Business Analysis**
 
 - 📫 How to reach me **niramaipnayanar@gmail.com**
 
