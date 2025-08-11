@@ -10,7 +10,7 @@
    
 
  
-- 🌱 I’m currently learning **Business Analysis**
+- 🌱 I’m currently learning **Business Analysis** and **Webots**
 
 - 📫 How to reach me **niramaipnayanar@gmail.com**
 
