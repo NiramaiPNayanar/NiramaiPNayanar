@@ -110,7 +110,6 @@
 </div>
 <h3 align="left">Activity: </h3>
 
-
 ![snake gif](https://github.com/NiramaiPNayanar/NiramaiPNayanar/blob/output/github-snake-dark.svg)
   
         
