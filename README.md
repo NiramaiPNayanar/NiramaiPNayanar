@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/niramai p nayanar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niramai p nayanar" height="30" width="40" /></a>
 <a href="https://kaggle.com/niramaipnayanar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="niramaipnayanar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/niramaipnayanar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="niramaipnayanar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/niramaipnayanar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="niramaipnayanar" height="30" width="40" /></a> <h1></h1>
   <a href="https://steamcommunity.com/id/JOBAPPLICATION12345/" target="blank"><img align="center" src="./steam_icon.png" alt="steam" height="40" width="40" /></a>
 </p>
 
